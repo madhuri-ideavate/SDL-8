@@ -1,0 +1,6 @@
+sites/default/files/
+sites/SDL-8.dd/files/
+vendor/
+core/
+tmp/
+modules/contri/

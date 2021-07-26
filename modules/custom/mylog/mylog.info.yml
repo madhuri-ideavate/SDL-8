@@ -1,0 +1,5 @@
+name: My Log 8.x-4.0.0
+description: write in a tmp file 
+type: module
+package: Development
+core: '8.x'
